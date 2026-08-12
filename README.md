@@ -49,7 +49,7 @@
 
 ## 🚀 Live Demo
 
-A live version of the application is hosted here:
+A live version of the application is hosted here: 
 
 **[Add Your Nexcent Live Demo URL Here]**
 
