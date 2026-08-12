@@ -51,7 +51,7 @@
 
 A live version of the application is hosted here: 
 
-**[Add Your Nexcent Live Demo URL Here]**
+**[Nexcent](https://nexcent-landing-page-rudra.netlify.app/)]**
 
 ---
 
