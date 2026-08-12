@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="1600" height="676" alt="Nexcent Membership Platform" src="https://github.com/user-attachments/assets/REPLACE_WITH_YOUR_NEXCENT_HERO_IMAGE_ID" />
+<img width="1600" height="899" alt="nexcent" src="https://github.com/user-attachments/assets/2effe4b6-b790-4c0f-b46c-33d7610d720f" />
+
 
 <br />
 <br />
