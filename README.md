@@ -51,7 +51,7 @@
 
 A live version of the application is hosted here: 
 
-**[Nexcent](https://nexcent-landing-page-rudra.netlify.app/)]**
+**[Nexcent](https://nexcent-landing-page-rudra.netlify.app/)**
 
 ---
 
