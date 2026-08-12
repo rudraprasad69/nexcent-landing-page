@@ -1,0 +1,21 @@
+{
+  "heading": "Manage your entire community in a single system",
+  "subheading": "Who is Nextcent suitable for?",
+  "cards": [
+    {
+      "icon": "UsersRound",
+      "title": "Membership Organisations",
+      "body": "Our membership management software provides full automation of membership renewals and payments"
+    },
+    {
+      "icon": "Building2",
+      "title": "National Associations",
+      "body": "Our membership management software provides full automation of membership renewals and payments"
+    },
+    {
+      "icon": "Landmark",
+      "title": "Clubs And Groups",
+      "body": "Our membership management software provides full automation of membership renewals and payments"
+    }
+  ]
+}

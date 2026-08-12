@@ -1,0 +1,39 @@
+{
+  "logo": {
+    "src": "/icon-white.svg",
+    "alt": "Nexcent Logo"
+  },
+  "copyright": "Copyright © 2026 Nexcent ltd.",
+  "linkGroups": [
+    {
+      "title": "Company",
+      "links": [
+        { "label": "About us", "href": "#" },
+        { "label": "Blog", "href": "#" },
+        { "label": "Contact us", "href": "#" },
+        { "label": "Pricing", "href": "#" },
+        { "label": "Testimonials", "href": "#" }
+      ]
+    },
+    {
+      "title": "Support",
+      "links": [
+        { "label": "Help center", "href": "#" },
+        { "label": "Terms of service", "href": "#" },
+        { "label": "Legal", "href": "#" },
+        { "label": "Privacy policy", "href": "#" },
+        { "label": "Status", "href": "#" }
+      ]
+    }
+  ],
+  "newsletter": {
+    "heading": "Stay up to date",
+    "placeholder": "Your email address"
+  },
+  "socialLinks": [
+    { "platform": "Instagram", "href": "https://instagram.com/nexcent" },
+    { "platform": "Dribbble", "href": "https://dribbble.com/nexcent" },
+    { "platform": "Twitter", "href": "https://twitter.com/nexcent" },
+    { "platform": "Youtube", "href": "https://youtube.com/nexcent" }
+  ]
+}

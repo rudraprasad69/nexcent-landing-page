@@ -1,0 +1,16 @@
+{
+  "name": "Nexcent",
+  "tagline": "Membership management, made simple",
+  "description": "Grow your community with Nexcent, the simple membership management platform.",
+  "url": "https://nexcent.example.com",
+  "ogImage": {
+    "src": "/hero-illustration.png",
+    "alt": "Nexcent preview",
+    "width": 1200,
+    "height": 630
+  },
+  "logo": {
+    "src": "/icon.svg",
+    "alt": "Nexcent Logo"
+  }
+}

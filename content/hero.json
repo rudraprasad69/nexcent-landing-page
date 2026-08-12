@@ -1,0 +1,13 @@
+{
+  "headingLine1": "Lessons and insights",
+  "headingAccent": "from 8 years",
+  "subtext": "Where to grow your business as a photographer: site or social media?",
+  "cta": { "label": "Register", "href": "#services" },
+  "image": {
+    "src": "/hero-illustration.png",
+    "alt": "Person using a membership analytics dashboard",
+    "width": 560,
+    "height": 420
+  },
+  "slides": 3
+}

@@ -1,0 +1,12 @@
+{
+  "links": [
+    { "label": "Home", "href": "#home" },
+    { "label": "Service", "href": "#services" },
+    { "label": "Feature", "href": "#feature" },
+    { "label": "Product", "href": "#product" },
+    { "label": "Testimonial", "href": "#testimonial" },
+    { "label": "FAQ", "href": "#faq" }
+  ],
+  "loginCta": { "label": "Login", "href": "#login" },
+  "signUpCta": { "label": "Sign up", "href": "#contact" }
+}

@@ -1,0 +1,11 @@
+{
+  "heading": "Helping a local",
+  "headingAccent": "business reinvent itself",
+  "subheading": "We started here with our hard work and dedication",
+  "items": [
+    { "icon": "users", "value": 2245341, "label": "Members" },
+    { "icon": "trending-up", "value": 46328, "label": "Clubs" },
+    { "icon": "building", "value": 828867, "label": "Event Bookings" },
+    { "icon": "credit-card", "value": 1926436, "label": "Payments" }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "heading": "Insights for the Discerning Enterprise",
+  "subheading": "Discover our latest perspectives on building trust, optimizing growth, and engineering premium membership experiences. Join a community of forward-thinking leaders setting new standards for reliability and excellence.",
+  "posts": [
+    {
+      "slug": "architecture-of-trust",
+      "title": "The Architecture of Trust: Elevating Your Safeguarding Standards",
+      "image": { "src": "/premium_blog_1.png", "alt": "Abstract digital shield and modern architecture", "width": 600, "height": 400 },
+      "href": "#"
+    },
+    {
+      "slug": "mastering-growth-precision",
+      "title": "Mastering Membership Growth with Data-Driven Precision",
+      "image": { "src": "/premium_blog_2.png", "alt": "Premium glassmorphism data dashboard", "width": 600, "height": 400 },
+      "href": "#"
+    },
+    {
+      "slug": "blueprint-for-excellence",
+      "title": "Building a Premium Community Experience: A Blueprint for Excellence",
+      "image": { "src": "/premium_blog_3.png", "alt": "Executives in a modern boardroom", "width": 600, "height": 400 },
+      "href": "#"
+    }
+  ]
+}

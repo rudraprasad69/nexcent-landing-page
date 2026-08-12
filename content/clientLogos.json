@@ -1,0 +1,13 @@
+{
+  "heading": "Our Clients",
+  "subheading": "We have been working with some Fortune 500+ clients",
+  "logos": [
+    { "name": "Client 1", "src": "logo-1" },
+    { "name": "Client 2", "src": "logo-2" },
+    { "name": "Client 3", "src": "logo-3" },
+    { "name": "Client 4", "src": "logo-4" },
+    { "name": "Client 5", "src": "logo-5" },
+    { "name": "Client 6", "src": "logo-6" },
+    { "name": "Client 7", "src": "logo-7" }
+  ]
+}

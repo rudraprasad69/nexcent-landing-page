@@ -1,0 +1,57 @@
+{
+  "testimonials": [
+    {
+      "quote": "Nexcent has completely transformed how we manage our organization. The automated workflows and seamless member onboarding have saved our team hundreds of administrative hours this year alone. It’s an indispensable tool for any growing community.",
+      "authorName": "Sarah Jenkins",
+      "authorTitle": "Operations Director, Global Community Network",
+      "authorImage": {
+        "src": "/sarah_jenkins_avatar.png",
+        "alt": "Sarah Jenkins",
+        "width": 180,
+        "height": 180
+      }
+    },
+    {
+      "quote": "We used to struggle with scattered data and inefficient communication. Nexcent brought everything under one roof. The intuitive dashboard and powerful analytics have given us unprecedented insights into our membership growth.",
+      "authorName": "David Chen",
+      "authorTitle": "Co-Founder, Elevate Tech Hub",
+      "authorImage": {
+        "src": "/david_chen_avatar.png",
+        "alt": "David Chen",
+        "width": 180,
+        "height": 180
+      }
+    },
+    {
+      "quote": "The reliability and speed of Nexcent's platform are unmatched. Our community members constantly praise the smooth experience. It's refreshing to use software that actually delivers on its promises.",
+      "authorName": "Maria Rodriguez",
+      "authorTitle": "CEO, Connective Solutions",
+      "authorImage": {
+        "src": "/maria_rodriguez_avatar.png",
+        "alt": "Maria Rodriguez",
+        "width": 180,
+        "height": 180
+      }
+    },
+    {
+      "quote": "After evaluating over a dozen membership platforms, Nexcent was the clear winner. Their commitment to security, combined with incredibly responsive customer support, makes them a partner we can truly rely on.",
+      "authorName": "James Wilson",
+      "authorTitle": "Executive Director, Apex Associations",
+      "authorImage": {
+        "src": "/james_wilson_avatar.png",
+        "alt": "James Wilson",
+        "width": 180,
+        "height": 180
+      }
+    }
+  ],
+  "logos": [
+    { "name": "GlobalTech", "src": "logo-1" },
+    { "name": "Stack", "src": "logo-2" },
+    { "name": "Hexa", "src": "logo-3" },
+    { "name": "Pinnacle", "src": "logo-4" },
+    { "name": "Orbit", "src": "logo-5" },
+    { "name": "Block", "src": "logo-6" }
+  ],
+  "allCustomersCta": { "label": "Meet all customers", "href": "#" }
+}

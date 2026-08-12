@@ -1,0 +1,28 @@
+[
+  {
+    "id": "pixelgrade",
+    "heading": "The unseen of spending three years at Pixelgrade",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet justo ipsum. Sed accumsan quam vitae est varius fringilla. Pellentesque placerat vestibulum lorem sed porta. Nullam mattis tristique iaculis. Nullam pulvinar sit amet risus pretium auctor. Etiam quis massa pulvinar, aliquam quam vitae, vehicula tempus tortor.",
+    "cta": { "label": "Learn More", "href": "#" },
+    "image": {
+      "src": "/mobile-illustration.png",
+      "alt": "Mobile app illustration",
+      "width": 520,
+      "height": 420
+    },
+    "imagePosition": "left"
+  },
+  {
+    "id": "footer-design",
+    "heading": "How to design your site footer like we did",
+    "body": "Donec a eros justo. Fusce egestas tristique bibeendum. Mauris faucibus tellus in ante consectetur, id hendrerit sem facilisis. Pellentesque aliquet vehicula ullamcorper. Donec ac nisi in sem elementum auctor. Donec ut turpis eu arcu tincidunt semper id non ligula. Vivamus ac ligula at quam facilisis rhoncus.",
+    "cta": { "label": "Learn More", "href": "#" },
+    "image": {
+      "src": "/mobile-premium.png",
+      "alt": "Site footer illustration",
+      "width": 520,
+      "height": 420
+    },
+    "imagePosition": "right"
+  }
+]
